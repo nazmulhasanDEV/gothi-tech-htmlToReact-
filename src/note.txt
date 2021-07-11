@@ -1,0 +1,7 @@
+Problem/issues found:
+1. Go to top button not showing
+2. Partner.js 
+3. Rider.js
+4. signuptodrive3.js
+4. signuptodrive4.js
+4. signuptoride.js
